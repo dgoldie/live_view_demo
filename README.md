@@ -2,7 +2,7 @@
 
 This is my entry in [Phoenix Phrenzy](https://phoenixphrenzy.com), showing off what [Phoenix](https://phoenixframework.org/) and [LiveView](https://github.com/phoenixframework/phoenix_live_view) can do.
 
-![Search Phrenzy](assets/static/images/spyglass-1952182.svg "Search Phrenzy")
+![Search Phrenzy](assets/static/images/spyglass.svg "Search Phrenzy")
 
 # Phrenzy Instructions
 
